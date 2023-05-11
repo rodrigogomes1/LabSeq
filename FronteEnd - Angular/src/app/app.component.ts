@@ -35,7 +35,7 @@ export class AppComponent {
         })
         .catch(error => {
           if (error == 400){
-            this.result = "Error: n value need to an Integer >= 0";
+            this.result = "Error: n value need to be an Integer >= 0";
           }
         });
     }else{
