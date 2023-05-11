@@ -22,4 +22,4 @@ Frontend - Angular:
 The GUI will be available in "http://localhost:4200/"
   
   
-As explained above the API Documentation using Swagger is presented in  "http://localhost:8080/swagger-ui/index.html" after running the service.
+As explained above the API Documentation using Swagger is presented in  "http://localhost:8080/swagger-ui/index.html" after running the backend service.
