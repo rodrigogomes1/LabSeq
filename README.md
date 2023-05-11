@@ -23,3 +23,4 @@ The GUI will be available in "http://localhost:4200/"
   
   
 As explained above the API Documentation using Swagger is presented in  "http://localhost:8080/swagger-ui/index.html" after running the backend service.
+![image](https://github.com/rodrigogomes1/LabSeq/assets/72028355/1d2fb355-44c1-4fde-a88a-9fd1acdebaaa)
