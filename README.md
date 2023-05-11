@@ -5,8 +5,8 @@ The Backend folder contains the Spring Boot aplication with that implement the R
 The Frontend - Angular folder contains the web GUI using Angular.
 
 
-To use the program:
-- Download the code and unzip it
+To use the program, Download the code and unzip it, next:
+
 Backend - Spring:
  - Open the IntellIJ
  - Open the Backend Folder
