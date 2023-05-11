@@ -1,4 +1,4 @@
-# LabSeq
+# LabSeq - Rodrigo Gomes
 
 The Backend folder contains the Spring Boot aplication with that implement the REST Service.
 
